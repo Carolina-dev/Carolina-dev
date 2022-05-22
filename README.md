@@ -1,4 +1,4 @@
-### Olá! Eu sou Carol-Dev
+### Olá! Eu sou Carol
 
 
 - 👩‍💻
