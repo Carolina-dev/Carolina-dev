@@ -1,7 +1,7 @@
 ### Olá! Eu sou Carol-Dev
 
 
-- 👩‍💻Hoje trabalho front-end 
+- 👩‍💻
 - 💻📖Estudando: React,python,django
 - 📜 Contrate-me no email: mariacfraga8@gmail.com
 - 👩🏽Pronome: Ela/Dela 
